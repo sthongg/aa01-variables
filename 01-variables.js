@@ -35,7 +35,7 @@ console.log("5+5")
 // 5. Assign the `age` variable to a number:
 
 // Your code here 
-
+// warzone
 
 
 // 6. Print out the `firstName`, `lastName`, and `age` variables. What
