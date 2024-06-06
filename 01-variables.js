@@ -29,6 +29,9 @@ let age = 31
 
 console.log(firstName, lastName, age)
 
+
+console.log("5+5")
+
 // 5. Assign the `age` variable to a number:
 
 // Your code here 
