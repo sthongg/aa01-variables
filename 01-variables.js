@@ -20,7 +20,7 @@ let lastName = "Hong"
 
 // Your code here 
 
-//let age
+let age = 31
 
 // 4. Print out the `firstName`, `lastName`, and `age` variables. What
 //    do you expect them to be when they get printed?
@@ -33,7 +33,7 @@ console.log(firstName, lastName, age)
 
 // Your code here 
 
-let age = 31
+
 
 // 6. Print out the `firstName`, `lastName`, and `age` variables. What
 //    do you expect them to be when they get printed?
